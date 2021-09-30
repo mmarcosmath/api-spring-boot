@@ -1,0 +1,40 @@
+[{
+    "id":"1",
+    "nome": "Black Clover",
+    "descricao":"Num mundo onde magia é tudo, Asta e Yuno são abandonados em uma igreja no mesmo dia. Enquanto Yuno possui poderes mágicos excepcionais, Asta é a única pessoa do mundo todo desprovida desse dom. Aos quinze anos, ambos recebem grimórios - livros mágicos que amplificam os poderes do detentor. Asta recebe um raro grimório de anti-magia, capaz de negar e repelir os feitiços do oponente. Dois opostos que nutrem uma rivalidade amigável, Yuno e Asta estão prontos para encarar os mais difíceis desafios para conquistar seu sonho em comum: tornar-se o Rei dos Feiticeiros. Desistir não é opção!"
+},
+{
+    "id":"2",
+    "nome": "Boruto: Naruto Next Generations",
+    "descricao":"Naruto era um jovem shinobi com um talento incorrigível para confusão. Ele conseguiu seu sonho de se tornar o maior ninja da vila e seu rosto fica no topo do monumento Hokage. Mas esta não é a sua história ... Uma nova geração de ninjas estão prontos para aparecer, liderados pelo próprio filho de Naruto, Boruto!"
+},
+{
+    "id":"3",
+    "nome": "Naruto Shippuden",
+    "descricao":"Uzumaki Naruto quer ser o melhor ninja de todos. Ele está indo muito bem, mas com o perigo iminente imposto pela misteriosa Akatsuki, Naruto percebe que ele deve treinar mais que nunca e deixa sua Vila para um intenso treinamento que o pressiona contra seus limites."
+},
+{
+    "id":"1",
+    "nome": "Marcos Matheus",
+    "endereco":"Avenida 14, Quadra 5,Casa 40 - COHAB",
+    "telefone":"(99) 9 8252-1087"
+},
+{
+    "id":"2",
+    "nome": "Irene",
+    "endereco":"Rua 10, Quadra W, Casa 11 - NOVO TEMPO",
+    "telefone":"(99) 9 8145-7895"
+},
+{
+    "id":"1",
+    "nome": "Bolinha",
+    "concluido":false,
+    "cliente":{"id":"1"}
+},
+{
+    "id":"2",
+    "nome": "Loop",
+    "concluido":false,
+    "cliente":{"id":"2"}
+}
+]
